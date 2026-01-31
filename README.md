@@ -28,7 +28,7 @@
 > Hey, I'm **arman0x**!
 >
 > I'm a student and backend developer focused on **C#/.NET**.
-> I grind algorithms (LeetCode / data structures) and build server-side projects for **SA:MP**.
+> I also practice algorithms (LeetCode / data structures) and build SA:MP server-side projects.
 >
 > If you find my repositories useful, feel free to ⭐ them or reach out via Issues/PRs.
 
