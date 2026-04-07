@@ -46,9 +46,10 @@
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=700&lines=Stack%3A)](https://git.io/typing-svg)
-- **Backend**: C#, .NET, ASP.NET Core
-- **Data**: EF Core, SQL
-- **Infra/Runtime**: VDS, Docker
-- **Game/Servers**: Unreal Engine 5 with Blueprints, SA:MP (Pawn)
+- **Languages**: C#, C, SQL, Pawn, Bash
+- **Backend**: ASP.NET Core, Entity Framework Core, REST APIs
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
+- **Infrastructure**: Docker, Linux, VPS/VDS Hosting, Nginx, SSL/TLS, Ansible (basic)
+- **Tools**: Git, CLI Tooling, Docker Compose, Github Actions
 
 ---
